@@ -1,0 +1,4 @@
+Hello I'm learning about files to create,open,write....
+I'm writting a second line in the file
+ I am adding extra information to the file
+ I am adding extra information to the file with append command
