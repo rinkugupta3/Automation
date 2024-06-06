@@ -1,17 +1,15 @@
 {
-  "name": "playwright_api_automation",
+  "name": "playwright-api-automation",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Automation project using Playwright",
   "scripts": {
     "test": "playwright test"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "dependencies": {
+    // Your dependencies here
+  },
   "devDependencies": {
-    "@playwright/test": "^1.44.1",
-    "@types/node": "^20.14.0",
-    "playwright": "^1.44.1"  // Add this line to ensure Playwright is installed
+    "playwright": "^1.0.0"
   }
 }
+
